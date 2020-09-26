@@ -17,9 +17,10 @@ In my free time I like to play some game, to watch movies 🎞️ and series �
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="nodejs" width="20" height="20"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original.svg" alt="nodejs" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-original.svg" alt="nodejs" width="20" height="20"/>
+</p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lfmaker&show_icons=true" alt="lfmaker"/>
 </p>
-
 
 Would you like to find me?
 
