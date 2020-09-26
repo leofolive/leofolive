@@ -5,6 +5,7 @@ My name is Leonardo Oliveira from Brazil (🇧🇷). I've been working as Full S
 In my free time I like to play some game, to watch movies 🎞️ and series 📺, to read books 📚, to listen to music and podcast 🎵 and eventually I like to study and watch series about universe 
 🌌.
 
+<br /><br /><br />
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
@@ -18,6 +19,7 @@ In my free time I like to play some game, to watch movies 🎞️ and series �
 <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original.svg" alt="nodejs" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-original.svg" alt="nodejs" width="20" height="20"/>
 </p>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lfmaker&show_icons=true" alt="lfmaker"/>
 </p>
