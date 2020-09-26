@@ -7,12 +7,14 @@ In my free time I like to play some game, to watch movies 🎞️ and series �
 
 <br /><br /><br />
 <p align="center">
+
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="react" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="react" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="nodejs" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="nodejs" width="20" height="20"/> 
